@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MemoramaInstruccional</string>
+
+    <!--  Strings Acerca de  -->
+    <string name="tittle_ad">Acerca de</string>
+    <string name="description1">Esta aplicación fue desarrollada con el fin de estimular la memoria del usuario, trabajar la memoria visual y mejorar el proceso de la organización espacial como parte del modelo conductual. \n\nAsí mismo divertir y entretener al usuario.</string>
+    <string name="autor">Aplicación desarrollada por Daniel Rodríguez Hernández.</string>
+
+    <!--  Strings Instrucciones (juego.xml)  -->
+
+    <string name="tittle_instr">Intrucciones</string>
+    <string name="rules">1. Coloca todas las cartas boca abajo sobre una superficie plana, como una mesa.\n\n2. Mezcla bien las cartas para asegurarte de que estén en orden aleatorio.\n\n3. Elige a un jugador para que comience. Ese jugador volteará dos cartas al azar, una por turno, de manera que todos puedan verlas.\n\n4. Si las dos cartas que se voltearon son iguales (por ejemplo, dos cartas con el mismo número, color o imagen), el jugador las retirará del juego y las colocará frente a él.\n\n5. Si las dos cartas no son iguales, el jugador las volverá a colocar boca abajo en el mismo lugar donde estaban.\n\n6. El siguiente jugador continuará volteando dos cartas y siguiendo los mismos pasos.\n\n7. El juego continúa hasta que se hayan encontrado y retirado todas las parejas de cartas.\n\n8. El jugador con más cartas emparejadas al final del juego será el ganador.\n\n\nRecuerda que el objetivo del juego es recordar la ubicación de las cartas para hacer coincidir las parejas y recolectar la mayor cantidad posible. ¡Diviértete jugando al memorama!</string>
+    <string name="btn_back">Volver</string>
+
+</resources>
